@@ -1,7 +1,7 @@
 const { euribor_DOWN, euribor_UP, euribor_STABLE } = require('./euribor_data');
 const { monthlyPaymentFormula } = require('./functions');
 
-const BANK_FIXED_RATE = 3;
+const BANK_FIXED_RATE = 2.8;
 const TOTAL_LOAN = 70000;
 const YEARS = 30;
 

@@ -1,0 +1,22 @@
+{
+  "name": "bank_info",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bojan996/Bank_info.git"
+  },
+  "author": "boki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bojan996/Bank_info/issues"
+  },
+  "homepage": "https://github.com/Bojan996/Bank_info#readme",
+  "dependencies": {
+    "fs-extra": "^10.1.0"
+  }
+}
