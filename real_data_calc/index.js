@@ -2,10 +2,10 @@ const fs = require('fs-extra');
 const euribor_data = fs.readJsonSync("./euribor_data.json");
 const { monthlyPaymentFormula } = require('../functions');
 
-const BANK_FIXED_RATE = 2.8;
-const TOTAL_LOAN = 70000;
+const BANK_FIXED_RATE = 3.4;
+const TOTAL_LOAN = 64000;
 const YEARS = 30;
-const WHAT_EURIBOR = "eur_6m";
+const WHAT_EURIBOR = "eur_3m";
 // const WHAT_EURIBOR = "eur_3m";
 
 const calculated_data = Object.keys(euribor_data[WHAT_EURIBOR]).map(year_key => {
