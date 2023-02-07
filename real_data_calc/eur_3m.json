@@ -1,0 +1,97 @@
+[
+  {
+    "year": "1999",
+    "year_total_payment": 5027.13,
+    "monthly_payements": [430.32, 416.63, 403.84, 424.92]
+  },
+  {
+    "year": "2000",
+    "year_total_payment": 5688.33,
+    "monthly_payements": [434.56, 457.42, 491.42, 512.71]
+  },
+  {
+    "year": "2001",
+    "year_total_payment": 5798.97,
+    "monthly_payements": [505.56, 492.38, 485.86, 449.19]
+  },
+  {
+    "year": "2002",
+    "year_total_payment": 5227.17,
+    "monthly_payements": [431.87, 439.51, 439.14, 431.87]
+  },
+  {
+    "year": "2003",
+    "year_total_payment": 4718.22,
+    "monthly_payements": [413, 397.63, 381.57, 380.54]
+  },
+  {
+    "year": "2004",
+    "year_total_payment": 4548.48,
+    "monthly_payements": [380.5, 373.64, 380.32, 381.7]
+  },
+  {
+    "year": "2005",
+    "year_total_payment": 4579.68,
+    "monthly_payements": [381.96, 381.66, 379.94, 383]
+  },
+  {
+    "year": "2006",
+    "year_total_payment": 5003.34,
+    "monthly_payements": [396.49, 411.08, 421.71, 438.5]
+  },
+  {
+    "year": "2007",
+    "year_total_payment": 5672.22,
+    "monthly_payements": [452.39, 461.82, 473.54, 502.99]
+  },
+  {
+    "year": "2008",
+    "year_total_payment": 6106.05,
+    "monthly_payements": [496.9, 500.09, 510.95, 527.41]
+  },
+  {
+    "year": "2009",
+    "year_total_payment": 4284.75,
+    "monthly_payements": [412.91, 354.18, 337.22, 323.94]
+  },
+  {
+    "year": "2010",
+    "year_total_payment": 3892.65,
+    "monthly_payements": [321.8, 319.24, 325.06, 331.45]
+  },
+  {
+    "year": "2011",
+    "year_total_payment": 4172.94,
+    "monthly_payements": [333.83, 343.91, 356.6, 356.64]
+  },
+  {
+    "year": "2012",
+    "year_total_payment": 3886.56,
+    "monthly_payements": [347.77, 324.62, 319.91, 303.22]
+  },
+  {
+    "year": "2013",
+    "year_total_payment": 3633.33,
+    "monthly_payements": [301.89, 302.73, 303.19, 303.3]
+  },
+  {
+    "year": "2014",
+    "year_total_payment": 3638.01,
+    "monthly_payements": [305.57, 306.68, 302.57, 297.85]
+  },
+  {
+    "year": "2015",
+    "year_total_payment": 3541.17,
+    "monthly_payements": [297.62, 295.42, 294.22, 293.13]
+  },
+  {
+    "year": "2016",
+    "year_total_payment": 3428.4,
+    "monthly_payements": [289.79, 285.58, 283.92, 283.51]
+  },
+  {
+    "year": "2017",
+    "year_total_payment": 3390.45,
+    "monthly_payements": [282.89, 282.44, 282.41, 282.41]
+  }
+]
